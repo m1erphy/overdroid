@@ -1,6 +1,7 @@
 # overdroid
 a OverDroid transforma o seu smartphone-android em uma máquina de alto desempenho, sobrecarregando a CPU com cálculos intensivos, consumindo RAM com alocações de memória constantes e enchendo o armazenamento com arquivos grandes. Além disso, ele inunda a rede local com pacotes UDP, criando um verdadeiro caos digital que pode afetar a conectividade.
 
+![demonstr](https://github.com/user-attachments/assets/dfa1bc24-8ec4-4a61-9fa5-0de0f683652d)
 
 # consequencias
 ao iniciar o OverDroid, o meu telefone rapidamente começa a ficar visivelmente lento. O processador está a todo vapor, calculando intensamente e causando um aumento significativo na temperatura do dispositivo. A memória RAM parece estar completamente ocupada, pois o telefone tenta alocar e liberar grandes quantidades de memória continuamente.
