@@ -12,9 +12,10 @@ em resumo, o telefone está completamente sobrecarregado, e a rede local está c
 
 #passo-a-passo
 
-    git clone https://github.com/m1erphy/overdroid.git
-    cd overdroid
-    ./gradlew assembleDebug
+    $ git clone https://github.com/m1erphy/overdroid.git
+    $ cd overdroid
+    $ ./gradlew sync
+    $ ./gradlew assembleDebug
     
 Overdroid
 
