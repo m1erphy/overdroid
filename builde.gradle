@@ -1,0 +1,24 @@
+// build.gradle (Nível do Projeto)
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // Classpath para o plugin Android Gradle
+        classpath 'com.android.tools.build:gradle:8.0.2'
+        // Outras dependências do classpath aqui
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
