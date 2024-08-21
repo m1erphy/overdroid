@@ -101,3 +101,7 @@ Este projeto está licenciado sob a MIT License.
 Contato
 
 Para qualquer dúvida ou suporte, entre em contato através do issues page ou pelo e-mail.
+
+    made by: m1erphy/wh0is. 
+    contact: m1erbonecom@proton.me
+    contact_2: debonewtcom@proton.me
